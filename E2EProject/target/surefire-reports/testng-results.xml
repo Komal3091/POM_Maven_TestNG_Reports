@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-30T13:01:00 IST" name="Suite" finished-at="2021-04-30T13:01:27 IST" duration-ms="27107">
+    <groups>
+    </groups>
+    <test started-at="2021-04-30T13:01:00 IST" name="HomePage" finished-at="2021-04-30T13:01:00 IST" duration-ms="5">
+    </test> <!-- HomePage -->
+    <test started-at="2021-04-30T13:01:00 IST" name="NavigationBAr" finished-at="2021-04-30T13:01:00 IST" duration-ms="5">
+    </test> <!-- NavigationBAr -->
+    <test started-at="2021-04-30T13:01:00 IST" name="Title" finished-at="2021-04-30T13:01:27 IST" duration-ms="27107">
+      <class name="Academy.ValidateTitle">
+        <test-method is-config="true" signature="initializeDriverInstance()[pri:0, instance:Academy.ValidateTitle@4b6e2263]" started-at="2021-04-30T13:01:00 IST" name="initializeDriverInstance" finished-at="2021-04-30T13:01:23 IST" duration-ms="23063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriverInstance -->
+        <test-method signature="valiadteTitleTest()[pri:0, instance:Academy.ValidateTitle@4b6e2263]" started-at="2021-04-30T13:01:23 IST" name="valiadteTitleTest" finished-at="2021-04-30T13:01:27 IST" duration-ms="3944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valiadteTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Academy.ValidateTitle@4b6e2263]" started-at="2021-04-30T13:01:27 IST" name="tearDown" finished-at="2021-04-30T13:01:27 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Academy.ValidateTitle -->
+    </test> <!-- Title -->
+  </suite> <!-- Suite -->
+</testng-results>

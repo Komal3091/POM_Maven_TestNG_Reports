@@ -1,0 +1,7 @@
+00:09:51.474 [TestNG-tests-3] INFO  resources.BaseClass - Navigated to Home page
+00:09:52.038 [TestNG-tests-3] INFO  resources.BaseClass - Restricted User
+00:11:56.206 [TestNG-tests-3] INFO  resources.BaseClass - Driver is intialized
+00:11:56.222 [TestNG-tests-1] INFO  resources.BaseClass - Driver is intialized
+00:12:04.983 [TestNG-tests-1] INFO  resources.BaseClass - Navigated to Home page
+00:12:06.832 [TestNG-tests-3] INFO  resources.BaseClass - Navigated to Home page
+00:12:09.046 [TestNG-tests-3] INFO  resources.BaseClass - Granted User
